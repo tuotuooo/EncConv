@@ -7,7 +7,7 @@
 - 离线可用
 
 ### 适用平台
-`iOS`  `Windows`  `Linux`  `Mac`  `Android`
+`iOS`  `Windows`  `Linux（桌面版）`  `Mac`  `Android`
 
 ### 发布版本
 `v1.0.0`  
